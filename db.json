@@ -1,0 +1,43 @@
+[
+  {
+      "id": 1,
+      "nombre": "Martilin",
+      "apellido": "Orellana",
+      "correo": "marti.orellanac@duocuc.cl",
+      "tipo": "alumno",
+      "contrasena": "1234"
+  },
+  {
+      "id": 2,
+      "nombre": "Jesus",
+      "apellido": "Luces",
+      "correo": "je.luces@duocuc.cl",
+      "tipo": "alumno",
+      "contrasena": "1234"
+  },
+  {
+      "id": 3,
+      "nombre": "Ronald",
+      "apellido": "Ulloa",
+      "correo": "ron.ulloa@duocuc.cl",
+      "tipo": "alumno",
+      "contrasena": "1234"
+  },
+  {
+      "id": 4,
+      "nombre": "PatoY",
+      "apellido": "Yanez",
+      "correo": "pa.yaneza@profesor.duoc.cl",
+      "tipo": "profesor",
+      "contrasena": "1234"
+  },
+  {
+      "id": 5
+  },
+  {
+      "id": 6
+  },
+  {
+      "id": 7
+  }
+]
